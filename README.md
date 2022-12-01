@@ -8,3 +8,6 @@ The Chinese Moral Foundation Dictionary (CMFD) is a dictionary to assist the aut
 Files:
 1. R package to run the dictionary
 2. Excel that includes all words and their moral labels 
+3. Validity test results 
+
+Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document). 
