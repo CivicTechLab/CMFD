@@ -8,6 +8,6 @@ The Chinese Moral Foundation Dictionary 2.0 (C-MFD 2.0) is a dictionary to assis
 Files:
 1. R package to run the dictionary
 2. Excel that includes all words and their moral labels 
-3. Validity test results 
+3. Validity test results - see "cmfd_civictech.csv"
 
 Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document). 
