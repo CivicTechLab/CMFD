@@ -10,4 +10,4 @@ Files:
 2. Excel that includes all words and their moral labels - see "cmfd_civictech.csv"
 3. Validity test results - see "cmfd_validitytest"
 
-Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document). 
+*Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document).* 
