@@ -9,6 +9,8 @@ Files:
 1. R package to run the dictionary - see "cmfd_nus.RData"
 2. Excel that includes all words and their moral labels - see "cmfd_civictech.csv"
 3. Validity test results - see "cmfd_validitytest"
-4. Python installation - "pip install cmfd"
+4. Crowd generated texts - see "cmfd_sampletext"
+5. Guide to use CMFD - see "cmfd_guide"
+6. Python installation - "pip install cmfd"
 
 *Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document).* 
