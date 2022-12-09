@@ -11,6 +11,6 @@ Files:
 3. Validity test results - see "cmfd_validitytest"
 4. Crowd generated texts - see "cmfd_sampletext"
 5. Guide to use CMFD - see "cmfd_guide"
-6. Python installation - "pip install cmfd"
+6. Python package installation - "pip install cmfd"
 
 *Our recommendation is to validate CMFD with human coders whenever the dictionary is applied to a new context (e.g., a new issue or a new type of document).* 
